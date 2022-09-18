@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Appcent as a Android Developer
 - 🌱 I’m currently learning Android Kotlin
 - 👯 I’m looking to collaborate on Android Kotlin Projects.
